@@ -32,6 +32,7 @@
 
 <img src="https://raw.githubusercontent.com/Kavyazz10/Kavyazz10/output/snake.svg" alt="Snake animation" />
 
+
 ###
 
 ### 🔝 Top Contributed Repo
