@@ -30,7 +30,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kavyazz10&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<img src="https://raw.githubusercontent.com/Kavyazz10/Kavyazz10/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Kavyazz10/Kavyazz10/output/snake.svg" alt="Snake animation"/>
 
  
 ###
