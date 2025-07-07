@@ -9,6 +9,7 @@
       <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko" />
     </td>
     <td align="right" style="vertical-align: top;">
+       <h4>🥰 Engagement Tracker </h4>
       <img src="https://profile-counter.glitch.me/Kavyazz10/count.svg?" />
     </td>
     <td align="right" style="vertical-align: top;">
@@ -24,7 +25,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Kavyazz10&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Kavyazz10&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavyazz10&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
  
 ###
 ## 🏆 GitHub Trophies
@@ -32,7 +32,7 @@
 
 <img src="https://raw.githubusercontent.com/Kavyazz10/Kavyazz10/output/snake.svg" alt="Snake animation" />
 
-
+ 
 ###
 
 ### 🔝 Top Contributed Repo
